@@ -42,3 +42,14 @@ yarn-error.log
 /boost.json
 /opencode.json
 /opencode.jsonc
+
+# Bottleneck Playground — ambiente local
+/storage/logs/*.log
+*.log
+/dumps
+/*.sql
+/*.sql.gz
+/*.dump
+*.tmp
+.env.*
+!.env.example
